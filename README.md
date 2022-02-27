@@ -1,5 +1,9 @@
 # hacknyu-22
 
+## How to use
+---
+Use SSH or HTTPS cloning, and run the html file in order to run!
+
 ### Background
 To some extent, the rich get richer and the poor get poorer. The wealthy have access to more resources, which leads to a better portfolio. Since poorer people do not know as much information, their decisions will be limited. 
 
