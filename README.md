@@ -26,3 +26,5 @@ Using the user’s risk aversion compared to their desired return, we can create
 #### Details
 With the user information obtained from the front-end, we will use the Heckman method to quantitatively analyze the data and give the user risk aversion index based on the model.
 Heckman two-step control function: a statistical technique to correct bias from non-randomly selected samples for quantitative social sciences.
+
+LIVE DEMO: http://10.20.79.109:8501/
