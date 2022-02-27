@@ -20,7 +20,7 @@ body {
   height: 100vh;
   justify-content: center;
   align-items: center;
-  background-color: hsl(var(--hue), 100%, 5%);
+  background-color: #070707;
 }
 
 body.correct {
@@ -34,10 +34,11 @@ body.wrong {
 .container {
   width: 800px;
   max-width: 80%;
-  background-color: rgb(67, 217, 243);
+  background-color: #1f1f2d;
   border-radius: 10px;
   padding: 30px;
-  box-shadow: 10px 5px 5px rgb(36, 128, 214);
+  box-shadow: 3px 3px 10px #725dff;
+  color: white;
 }
 
 .btn-grid {
@@ -50,9 +51,9 @@ body.wrong {
 .btn {
   --hue: var(--hue-neutral);
   border: 3px solid #4068b3;
-  background-color: hsl(var(--hue), 50%, 10%);
+  background-color: #725dff;
   border-radius: 5px;
-  padding: 5px 10px;
+  padding: 5px 100px;
   color: white;
   outline: none;
 }
@@ -62,10 +63,10 @@ body.wrong {
   color: yellow;
 }
 
-.btn.correct {
+/* .btn.correct {
   border-color: black;
   color: yellow;
-}
+} */
 
 /* .btn.wrong {
   --hue: var(--hue-wrong);
