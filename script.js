@@ -122,6 +122,13 @@ function clearStatusClass(element) {
 }
 const questions = [
     {
+        question: 'Not sure what assets to invest in?',
+        answers: [
+            { text: 'You have come to the right place'},
+            { text: 'Click here if you wish to participate'}
+        ]
+    },
+    {
         question: 'What is your gender?',
         answers: [
             { text: 'Male'},
